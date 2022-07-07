@@ -1,0 +1,11 @@
+
+<resources>
+    <plurals name="days_left">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <string-array name="gender_suggestions">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

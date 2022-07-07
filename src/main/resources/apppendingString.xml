@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="label_store_locator_count">
+        <item quantity="one">%s store</item>
+        <item quantity="other">%s stores</item>
+    </plurals>
+    <string-array name="wishlist_recent">
+        <item>Wishlist</item>
+        <item>Recently Viewed</item>
+    </string-array>
+    <string-array name="gender_suggestions">
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+    </string-array>
+    <string-array name="launch_guide_titles" translatable="true">
+        <item>Click Selfie</item>
+        <item>Try Frames</item>
+        <item>Select Lens</item>
+        <item>Upload Power</item>
+    </string-array>
+    <string-array name="launch_guide_benefits" translatable="true">
+        <item>Measure face width &amp; get personalized shopping experience.</item>
+        <item>Provide Camera access &amp; try out frames on your face.</item>
+        <item>Select from basic lenses to BLU lens that block harmful blue light from digital devices</item>
+        <item>Submit your eye power even after you have placed your order.</item>
+    </string-array>
+</resources>
